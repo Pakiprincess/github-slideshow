@@ -1,4 +1,11 @@
-# EditorConfig is awesome: http://EditorConfig.org
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+Occupy Mars
+---
+
+#EditorConfig is awesome: http://EditorConfig.org
 root = false
 
 [*]
